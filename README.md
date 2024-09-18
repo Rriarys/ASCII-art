@@ -1,4 +1,4 @@
-Tested on 1366x768 expansion
+Tested on 1366x768 resolution
 For formats: *.bmp; *.png; *.jpg; *.JPEG 
 
 Guide:
